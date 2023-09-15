@@ -4,12 +4,12 @@
 
 /**
  * print_char - Prints a char
- * @types: List a of arguments
+ * @types: A List a of arguments
  * @buffer: Buffer array to handle print
- * @flags:  Calculates active flags
- * @width: Width
- * @precision: Precision specification
- * @size: Size specifier
+ * @flags:  This Calculates active flags
+ * @width: the Width
+ * @precision: the Precision specification
+ * @size: the Size specifier
  * Return: Number of chars printed
 */
 int print_char(va_list types, char buffer[],
